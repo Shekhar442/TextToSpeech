@@ -16,5 +16,5 @@ A modern, user-friendly application that converts text to speech using various v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TextToSpeechProject.git
+git clone https://github.com/shekhar442/TextToSpeechProject.git
 cd TextToSpeechProject
