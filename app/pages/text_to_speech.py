@@ -1,6 +1,11 @@
 import streamlit as st
-from src.tts_engine import TTSEngine
+import sys
 import os
+
+# Add the project root directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+
+from src.tts_engine import TTSEngine
 
 def render_text_to_speech_page():
     st.title("Text to Speech Converter 🎙️")
