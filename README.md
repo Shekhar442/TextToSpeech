@@ -14,5 +14,5 @@ A Streamlit-based application that converts text to speech in multiple languages
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/TextToSpeechProject.git
+git clone https://github.com/Shekhar442/TextToSpeechProject.git
 cd TextToSpeechProject
