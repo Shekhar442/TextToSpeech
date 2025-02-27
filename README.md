@@ -1,20 +1,18 @@
-# Text-to-Speech Converter 🎧
+# Text to Speech Converter
 
-A modern, user-friendly application that converts text to speech using various voices and customizable settings.
+A Streamlit-based application that converts text to speech in multiple languages.
 
-## 🌟 Features
+## Features
 
-- Convert text to speech in real-time
-- Multiple voice options
-- Adjustable speech rate and volume
-- Save audio files in MP3 format
-- User-friendly web interface
-- File management system
-- Customizable settings
+- Text to speech conversion in multiple languages
+- Adjustable speech rate
+- MP3 file download
+- Clean and intuitive interface
+- Automatic file cleanup
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shekhar442/TextToSpeechProject.git
+git clone https://github.com/yourusername/TextToSpeechProject.git
 cd TextToSpeechProject
